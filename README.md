@@ -1,0 +1,1 @@
+This tool encrypts and decrypts messages using Caesar Cipher, Vigenère Cipher, or AES. With a simple GUI, users can easily secure their messages. AES encryption generates and stores keys for decryption.
