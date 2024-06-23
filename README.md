@@ -8,7 +8,7 @@ This is a simple GUI-based encryption/decryption tool that supports three encryp
   - Simple substitution cipher.
   - Shifts each letter by a specified number of places in the alphabet.
   - Supports both encryption and decryption.
-  - ![Caesar Encryption](caeser_encryption.png)
+  - ![Caesar Encryption](images/caeser_encryption.png)
   - ![Caesar Encrypted Message](Caeser_encr_message.png)
   - ![Caesar Decryption](Caeser_key_dec.png)
   - ![Caesar Decrypted Message](Caeser_dec_message.png)
